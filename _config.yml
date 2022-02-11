@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ozge Erten"
+title                    : "Özge Erten"
 title_separator          : "-"
 name                     : &name "Özge Erten"
 description              : &description "PhD Candidate"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Özge ERTEN"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Science (MSc)"
   location         : "The Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "o.erten@maastrichtuniversity.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
