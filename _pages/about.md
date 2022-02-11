@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ö.E."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Good to see you here!
+
 ======
+Good to see you here!
