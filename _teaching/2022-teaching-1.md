@@ -8,4 +8,4 @@ date: 2022-02-01
 location: "Maasticht, The Netherlands"
 ---
 
-This is a description of a teaching experience
+The content about the course will be shared as soon as possible.

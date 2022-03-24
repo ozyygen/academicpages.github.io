@@ -8,4 +8,4 @@ date: 2021-09-01
 location: "Maastricht, The Netherlands"
 ---
 
-This is a description of a teaching experience
+The content about the course will be shared as soon as possible.

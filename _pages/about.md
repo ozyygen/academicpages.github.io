@@ -11,3 +11,5 @@ redirect_from:
 
 ======
 Good to see you here!
+
+It will take some time for me to showcase the ideas I have in mind for this area :) In the meantime, you can browse other parts of the website.
