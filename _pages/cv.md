@@ -16,9 +16,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Ege University, 2015
+* B.S. in Computer Science, [Ege University](https://ege.edu.tr/eng-0/homepage.html), 2015
 * M.S. in Computer Science, Ege University, 2017
-* Ph.D in Computer Science, Maastricht University, Present
+* Ph.D in Computer Science, [Maastricht University](https://www.maastrichtuniversity.nl), Present
 
 Work experience
 ======
