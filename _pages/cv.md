@@ -29,7 +29,7 @@ Work experience
     * Building and mining RDF KGs -𝘸𝘪𝘵𝘩 𝘨𝘳𝘢𝘱𝘩 𝘦𝘮𝘣𝘦𝘥𝘥𝘪𝘯𝘨 𝘮𝘦𝘵𝘩𝘰𝘥𝘴, 𝘚𝘗𝘈𝘙𝘘𝘓, 𝘢𝘯d 𝘳𝘶𝘭𝘦 𝘮𝘪𝘯𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘪𝘲𝘶𝘦𝘴
     * Gene Ontology - 𝘤𝘰𝘮𝘱𝘦𝘵𝘦𝘯𝘵 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥𝘪𝘯𝘨 𝘰𝘧 𝘪𝘵𝘴 𝘣𝘪𝘰𝘭𝘰𝘨𝘪𝘤𝘢𝘭 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 𝘳𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯 
     * Development with Python - 𝘮𝘢𝘪𝘯𝘭𝘺 𝘧𝘰𝘳 𝘱𝘳𝘰𝘤𝘦𝘴𝘴𝘪𝘯𝘨 𝘒𝘎 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘮𝘢𝘯𝘪𝘱𝘶𝘭𝘢𝘵𝘪𝘰𝘯
-  * [Teaching](/teaching/) 
+    * [Teaching](/teaching/) 
 
 * .NET Developer
   * Ünibel A.Ş. · Full-time
@@ -48,11 +48,14 @@ Work experience
 Skills
 ======
 * Programming: 
-  * Java, Pyhton, C, C#, and SQL, SPARQL, Cypher and Gremlin query languages 
+  * Programming Languages: Pyhton, C#, C, Java
+  * Query Languages: SQL, SPARQL, Cypher and Gremlin
 * Database: 
-  * Neo4j, Titan DB, MSSQL and GraphDB
+  * Neo4j, Titan DB, MSSQL, Oracle DB and GraphDB
 * Data Management: 
   * RDF Knowledge Graphs, Knowledge Graph Embeddings, Semantic Web
+* Miscellaneous:
+  * Web API and Windows Service development, Postman, Github and Team Foundation Server
 * Languages: 
   * Turkish and English
 
