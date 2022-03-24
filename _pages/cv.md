@@ -48,7 +48,7 @@ Work experience
 Skills
 ======
 * Programming: 
-  * Programming Languages: Pyhton, C#, C, Java
+  * Programming Languages: Pyhton, C#, C and Java
   * Query Languages: SQL, SPARQL, Cypher and Gremlin
 * Database: 
   * Neo4j, Titan DB, MSSQL, Oracle DB and GraphDB
