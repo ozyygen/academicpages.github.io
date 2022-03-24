@@ -1,5 +1,5 @@
 ---
-title: "the 4th KnowGraphs Workshop on April 7-8, 2022"
+title: "The 4th KnowGraphs Workshop on April 7-8, 2022"
 excerpt: "Upcoming Event"
 collection: portfolio
 ---
