@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /cv/
-title: "Özge Erten"
+title: false
 author_profile: false
 redirect_from:
   - /resume
@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 <div style="text-align: center;">
-<em><p>Özge Erten is a researcher in the field of computer science with a demonstrated history of working for academia and industry in multinational settings bringing together expertise from Knowledge Graphs, Machine Learning, Databases, and programming languages such as Python and C#.</p></em>
+<em><p> <a href="https://www.linkedin.com/in/ozge-erten/">Özge Erten</a> is a researcher in the field of computer science with a demonstrated history of working for academia and industry in multinational settings bringing together expertise from Knowledge Graphs, Machine Learning, Databases, and programming languages such as Python and C#.</p></em>
 </div>
 
 Education
