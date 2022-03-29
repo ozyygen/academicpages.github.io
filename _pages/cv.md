@@ -48,14 +48,14 @@ Work experience
 Skills
 ======
 * Programming: 
-  * Programming Languages: Pyhton, C#, C and Java
+  * Programming Languages: Python, C#, C, and Java
   * Query Languages: SQL, SPARQL, Cypher and Gremlin
 * Database: 
-  * Neo4j, Titan DB, MSSQL, Oracle DB and GraphDB
-* Data Management: 
-  * RDF Knowledge Graphs, Knowledge Graph Embeddings, Semantic Web
+  * Neo4j, Titan DB, MSSQL, Oracle DB, and GraphDB
+* Data Science: 
+  * RDF Knowledge Graphs, Knowledge Graph Embeddings, and Semantic Web
 * Miscellaneous:
-  * Web API and Windows Service development, Postman, Github and Team Foundation Server
+  * Web API and Windows Service development, Postman, Github, and Team Foundation Server
 * Languages: 
   * Turkish and English
 
