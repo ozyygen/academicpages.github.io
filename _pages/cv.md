@@ -5,20 +5,12 @@ title: "Özge Erten"
 author_profile: false
 redirect_from:
   - /resume
-
-<style>
-header {
-text-align: center;
-}
-</style>
-
 ---
 
 {% include base_path %}
 
 ---
 <div style="text-align: center;">
-<h1>Özge Erten</h1>
 <em><p>Özge Erten is a researcher in the field of computer science with a demonstrated history of working for academia and industry in multinational settings bringing together expertise from Knowledge Graphs, Machine Learning, Databases, and programming languages such as Python and C#.</p></em>
 </div>
 
