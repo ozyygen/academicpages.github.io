@@ -1,9 +1,17 @@
 ---
 layout: single
 permalink: /cv/
+title: "Özge Erten"
 author_profile: false
 redirect_from:
   - /resume
+
+<style>
+header {
+text-align: center;
+}
+</style>
+
 ---
 
 {% include base_path %}
