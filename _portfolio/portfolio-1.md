@@ -16,12 +16,11 @@ A night train or a plane?
 
 ---
 <div>
-  <img style="width: 180px; margin: 0 30px 30px 0; float: left;" src="/images/train.jpg"/>
+  <img style="width: 195px; margin: 0 30px 30px 0; float: left;" src="/images/train.jpg"/>
   <div style="display: inline;">
     <p> For both personal and environmental reasons, I preferred a night train for my journey to Vienna. I searched <a href="https://www.nightjet.com/en/">öbb</a> website for a one-person sleeping cabin 15 days before my journey, and I realized I was a bit late. One-person sleeping cabins are difficult to find but it is worth it! Just imagine waking up to this view! </p>
   </div>
 </div>
-
 <div>
 To make it more orderly, I'll compare the pros/cons.
 <hr>
