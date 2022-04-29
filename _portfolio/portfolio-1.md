@@ -1,6 +1,6 @@
 ---
 title: "The 4th KnowGraphs Workshop"
-excerpt: "April 7-8 2022 in Vienna<br/><img src='/images/viennaworkshop.jpg'>"
+excerpt: "April 7-8 2022, Vienna<br/><img src='/images/viennaworkshop.jpg'>"
 collection: portfolio
 author_profile: false
 
@@ -9,7 +9,7 @@ author_profile: false
 About Workshop
 ===
 
-A two-day workshop with educational seminars and social activities with other KnowGraphs researchers! 
+The 4th two-day KnowGraphs workshop took place at Vienna University. I had the opportunity to listen to educational seminars that developed academic skills, and to participate in activities with other KnowGraphs researchers.
 
 A night train or a plane?
 ===
@@ -18,10 +18,14 @@ A night train or a plane?
 <div>
   <img style="width: 200px; margin: 30px 30px 30px 0; float: left;" src="/images/train.jpg"/>
   <div style="display: inline;">
-    <p> For both personal and environmental reasons, I preferred a night train to reach Vienna. I searched <a href="https://www.nightjet.com/en/">öbb</a> website 15 days before my journey for a one-person sleeping cabin reservation, and I realized I was a bit late. One-person sleeping cabins are difficult to find. I had to reschedule my return day, but it was worth it! Just imagine waking up to this view! To make it more orderly, I'll compare the pros/cons. </p>
+    <p> For both personal and environmental reasons, I preferred a night train for my journey to Vienna. I searched <a href="https://www.nightjet.com/en/">öbb</a> website for a one-person sleeping cabin 15 days before my journey, and I realized I was a bit late. One-person sleeping cabins are difficult to find but it is worth it! Just imagine waking up to this view! </p>
   </div>
 </div>
 ---
+
+---
+<div>
+To make it more orderly, I'll compare the pros/cons.
 
 Pros
 
@@ -36,6 +40,6 @@ Cons
 - There was a delay of about 1 hour on both of my journeys. After night trains, to reach my city, I had to transfer with other trains that I bought a ticket for 15 days ago as well. Luckily, I had no problems as I took those trains with more than an hour of waiting time. It's good to keep that in mind!
 - I did not find the sound insulation between the cabins very successful. If you have loud neighbors, this may bother you.
 - You must have all your luggage with you. If you have a lot of luggage, this may make you uncomfortable.
-
-
+</div>
+---
  
