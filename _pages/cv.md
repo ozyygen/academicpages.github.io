@@ -12,6 +12,7 @@ redirect_from:
 ---
 <div style="text-align: center;">
 <em><p> <a href="https://www.linkedin.com/in/ozge-erten/">Özge Erten</a> is a researcher in the field of computer science with a demonstrated history of working for academia and industry in multinational settings bringing together expertise from Knowledge Graphs, Machine Learning, Databases, and programming languages such as Python and C#.</p></em>
+<hr>
 </div>
 
 Education
@@ -63,5 +64,6 @@ Teaching
 ======
 * [Semantic Web](/teaching/2021-teaching-1)
 * [Building and Mining Knowledge Graphs](/teaching/2022-teaching-1)
+* [Data Science](/teaching/2022-teaching-2)
   
 
