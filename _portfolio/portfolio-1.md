@@ -21,10 +21,10 @@ A night train or a plane?
     <p> For both personal and environmental reasons, I preferred a night train for my journey to Vienna. I searched <a href="https://www.nightjet.com/en/">öbb</a> website for a one-person sleeping cabin 15 days before my journey, and I realized I was a bit late. One-person sleeping cabins are difficult to find but it is worth it! Just imagine waking up to this view! </p>
   </div>
 </div>
-<hr>
+
 <div>
 To make it more orderly, I'll compare the pros/cons.
-<br/>
+<hr>
 Pros
 <hr>
 - Personally, my journey was less stressful than other public transport because of a private cabin which has a comfortable bed, a sink, and less but not the least a lot of space to move! You can adjust lights, and room temperature and announce sounds with buttons. Also, breakfast is served in the morning from your selection.<br/>
