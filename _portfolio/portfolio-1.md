@@ -1,6 +1,6 @@
 ---
 title: "The 4th KnowGraphs Workshop"
-excerpt: "April 7-8 2022 in Vienna<br/><img style="width=%40; height=%40", src='/images/viennaworkshop.jpg'>"
+excerpt: "April 7-8 2022 in Vienna<br/><img src='/images/viennaworkshop.jpg'>"
 collection: portfolio
 author_profile: false
 
@@ -15,9 +15,12 @@ A night train or a plane?
 ===
 
 ---
-<img style="text-align: center; width=60%; height=60%",src="/images/train.jpg">
-<br/>
-<span>For both personal and environmental reasons, I preferred a night train to reach Vienna. I searched <a href="https://www.nightjet.com/en/">öbb</a> website 15 days before my journey for a one-person sleeping cabin reservation, and I realized I was a bit late. One-person sleeping cabins are difficult to find. I had to reschedule my return day, but it was worth it! Just imagine waking up to this view! To make it more orderly, I'll compare the pros/cons. </span>
+<div style="border: 3px solid blue; padding: 20px 40px 40px; max-width: 600px;">
+  <img style="width: 250px; margin: 30px 30px 30px 0; float: left;" src="/images/train.jpg"/>
+  <div style="display: inline;">
+    <p> For both personal and environmental reasons, I preferred a night train to reach Vienna. I searched <a href="https://www.nightjet.com/en/">öbb</a> website 15 days before my journey for a one-person sleeping cabin reservation, and I realized I was a bit late. One-person sleeping cabins are difficult to find. I had to reschedule my return day, but it was worth it! Just imagine waking up to this view! To make it more orderly, I'll compare the pros/cons. </p>
+  </div>
+</div>
 ---
 
 Pros
